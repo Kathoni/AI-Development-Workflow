@@ -98,7 +98,9 @@ This repository contains a project exploring how Artificial Intelligence (AI) is
 ├── ethics/
 
 ├── bonus_innovation/
+
 ├── requirements.txt
+
 └── README.md
 
 
