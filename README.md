@@ -88,10 +88,15 @@ This repository contains a project exploring how Artificial Intelligence (AI) is
 ├── theory/
 
 ├── practical/
+
 │ ├── task1_code_completion/
+
 │ ├── task2_testing/
+
 │ └── task3_predictive_analytics/
+
 ├── ethics/
+
 ├── bonus_innovation/
 ├── requirements.txt
 └── README.md
