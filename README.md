@@ -86,6 +86,7 @@ This repository contains a project exploring how Artificial Intelligence (AI) is
 ## 📂 Folder Structure
 
 ├── theory/
+
 ├── practical/
 │ ├── task1_code_completion/
 │ ├── task2_testing/
